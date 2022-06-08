@@ -12,19 +12,19 @@ const Navbar = () => {
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link active text-black" aria-current="page" href="#">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
+          <a class="nav-link text-black" href="#">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Services</a>
+          <a class="nav-link text-black" href="#">Services</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Contact</a>
+          <a class="nav-link text-black" href="#">Contact</a>
         </li>
       </ul>
-      <a class="navbar-brand fw-bolder fs-4 mx-auto text-black" href="#">Navbar</a>
+      <a class="navbar-brand fw-bolder fs-4 mx-auto text-black" href="#">FINE ART</a>
       <button className="btn btn-outline-primary ms-auto px-4 rounded-pill">
         <i className='fa fa-sign-in me-2'></i> Login</button>
       <button className="btn btn-outline-primary ms-2 px-4 rounded-pill">
