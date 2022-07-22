@@ -12,16 +12,16 @@ const Navbar = () => {
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active text-black" aria-current="page" href="#">Home</a>
+                <a class="nav-link active text-black" aria-current="page" href="/">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-black" href="#">About</a>
+                <a class="nav-link text-black" href="/About">About</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-black" href="#">Services</a>
+                <a class="nav-link text-black" href="/Services">Services</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-black" href="#">Contact</a>
+                <a class="nav-link text-black" href="/Contact">Contact</a>
               </li>
             </ul>
             <a class="navbar-brand fw-bolder fs-4 mx-auto text-black" href="#">FINE ART</a>
