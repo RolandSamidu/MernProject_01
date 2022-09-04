@@ -29,6 +29,8 @@ const Navbar = () => {
               <i className='fa fa-sign-in me-2'></i> Login</a>
             <a href='/register' className="btn btn-outline-primary ms-2 px-4 rounded-pill">
               <i className="fa fa-user-plus me-2"></i> Register</a>
+            <a href='/dashboard' className="btn btn-outline-primary ms-2 px-4 rounded-pill">
+            <i class="fa-solid fa-gauge-high"></i> Dashboard</a>
           </div>
         </div>
       </nav>
